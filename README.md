@@ -119,6 +119,7 @@ Areas identified for improvement:
 **Next Iteration of designs:**
 
 ![image](https://github.com/Prashar-P/UX_Research_Ecommerce/assets/140114811/9112c3b2-3922-4222-8a47-aeb5e7beecf0)
+![image](https://github.com/Prashar-P/UX_Research_Ecommerce/assets/140114811/6766c9e1-3aac-44e7-8112-29b59774fbb8)
 
 
 <!-- CONTACT -->
